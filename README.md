@@ -13,7 +13,7 @@ Together with the challenge leads SIG will qualify teams for a grill session, wh
 
 During this 10 minute grill session, a SIG code JEDI will interview the team on the issue they are addressing with their solution, and how it was implemented. The grill session will act as a sanity check and touches on various software quality aspects, like maintainability, security and scalability. Additionally, the team will be challenged on their implementation approach and decision making process.
 
-Last year, all teams that had passed the grill session received a golden balloon, this year your team will receive virtually an avatar with a golden balloon. 
+[Last year](https://odysseyhack.github.io/), all teams that had passed the grill session received a golden balloon, this year your team will receive virtually an avatar with a golden balloon. 
 
 The results from the grill session will be visible on the teams MIRO-board, this will help to demonstrate the maturity of the prototype to the judges.
 
