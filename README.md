@@ -4,7 +4,7 @@ During Odyssey Momentum Software Improvement Group (SIG) Code JEDI’s will supp
 
 ## Better Code Hub (BCH)
 
-Teams will be invited to a GitHub team where they can push their code continuously. The repo can be a private or public. For every commit [BCH](https://bettercodehub.com) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
+Teams will be invited to a GitHub team where you can push your code continuously. The repo can be a private or public. For every commit [BCH](https://bettercodehub.com) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
 
 Together with the challenge leads SIG will qualify teams for a grill session, which means a short interview by a SIG Code JEDI. 
 
