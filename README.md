@@ -4,7 +4,7 @@ During Odyssey Momentum Software Improvement Group (SIG) Code JEDI’s will supp
 
 ## Better Code Hub (BCH)
 
-Teams will be invited to a GitHub team where they can push their code continuously. The repo can be a private or public. For every commit Better Code Hub (BCH) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
+Teams will be invited to a GitHub team where they can push their code continuously. The repo can be a private or public. For every commit [BCH](https://bettercodehub.com) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
 
 Together with the challenge leads SIG will qualify teams for a grill session, which means a short interview by a SIG Code JEDI. 
 
@@ -76,11 +76,6 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 4. If you pass you get an avatar with a golden balloon, the results will be shared with the organizers and added to the teams MIRO-board.
 
 
-
-## Odyssey Hackathon Scoreboard
-
-All the badges of the repos are collected [here](https://odysseyhack.github.io/scoreboard)
-Not on the scoreboard? Let the Better Code Hub team know on Mobilize or send a PR.
 
 
 ## How to exclude library files from analysis / change your configuration
