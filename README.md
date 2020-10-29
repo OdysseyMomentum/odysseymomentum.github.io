@@ -19,7 +19,7 @@ The results from the grill session will be visible on the teams MIRO-board, this
 
 ## Sigrid
 
-BCH is linked to Sigrid, SIG’s software assurance platform. Challenge leads & challenge owners see in Sigrid how teams are performing. 
+BCH is linked to [Sigrid](https://sigrid-says.com), SIG’s software assurance platform. Challenge leads & challenge owners see in Sigrid how teams are performing. 
 Via a livestream SIG will be interviewed by Odyssey and will show & explain what we see in Sigrid.
 
 ## Ok, what are those 10 guidelines?
@@ -44,7 +44,7 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 
 - You can add more repos to your team yourself.
 - You first need to create the repository within the org (using the + next to your profile icon) 
-- then add the repo to your team -> repositories -> add -> and add the created respository
+- Then add the repo to your team -> repositories -> add -> and add the created respository
 
 ## GitHub oAuth to login to Better Code Hub and run analysis
 
