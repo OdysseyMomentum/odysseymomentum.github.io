@@ -87,16 +87,15 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 3. Add a section called exclude, in there add the files/folders you want to exclude. Supported exclusion options can be found [at the bettercodehub documentation](https://bettercodehub.com/docs/configuration-manual)
 
 
-## Why your Odyssey needs Future-Proof code
+## Read more
 
-Read more [On why it needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+[On why it needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
-Or about the [2017 Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
+[How a Hackathon appreciates quality code](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
 
-Let's build some great software!!
 
-2020 SIG Jedi team
+## Let's build some great software!!
 
-Bugra, Reinier, Mees, Rakesh, Rudy, Martin, [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
+The 2020 SIG Jedi team : Bugra, Reinier, Mees, Rakesh, Rudy, Martin, [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
 
