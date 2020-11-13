@@ -58,11 +58,12 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 
 ## How to get support
 
-1. Before the event, through [email](mailto:bettercodehub@sig.eu).
+Talk to us via Momentum or Discord
 
-2. During the event by talking to SIG JEDI 
+1. The 2020 SIG Jedi team : [Frank](https://github.com/valdore86), Mousumi, Femke, [Bugra Yildiz](https://github.com/bugramyildiz), [Reinier](https://github.com/ReinierVis), Mees Kalf, Rakesh, Rudy Marsman, [Martin Boerman](https://github.com/coldfurify), [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
 
-3. After the event, through [email](mailto:bettercodehub@sig.eu).
+
+2. After the event, through [email](mailto:bettercodehub@sig.eu).
 
 
 
@@ -98,5 +99,4 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 
 ## Let's build some great software!!
 
-The 2020 SIG Jedi team : [Frank](https://github.com/valdore86), Mousumi, Femke, Bugra, Reinier, Mees, Rakesh, Rudy, Martin, [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
 
