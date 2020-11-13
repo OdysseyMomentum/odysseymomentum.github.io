@@ -33,19 +33,21 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 4. 17 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
 
-## GitHub teams and private repos
+## About the GitHub setup
 
 - All the teams were created on forehand and email invites were send to the teamleads. 
 - Please check these invite emails from GitHub.
-- Your team is added here [OdysseyMomentum Organization](https://github.com/odysseymomentum)
-- Your repo can be private or public
-- If you need team members to be added to org please find FrankFonteijn or MichielCuijpers on Discord
+- Your repo is added to a team that is part of the [OdysseyMomentum Organization](https://github.com/odysseymomentum)
+- Your team repo can be private or public
 
-## More private repos
+## Adding more team members? 
 
-- You can add more repos to your team yourself.
-- You first need to create the repository within the org (using the + next to your profile icon) 
-- Then add the repo to your team -> repositories -> add -> and add the created respository
+If you need team members to be invited to team inside the org please find FrankFonteijn or MichielCuijpers on Discord
+
+## More repos? 
+
+You can add more repos to your team yourself, first create the repository within the org (using the + next to your profile icon). Then add the repo to your team -> repositories -> add -> and add the created respository. Adding the repo to the team will give your team members access.
+
 
 ## GitHub oAuth to login to Better Code Hub and run analysis
 
@@ -56,7 +58,7 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 3. Click on the Pull request icon to make Better Code Hub run on every Push and Pull Request.
 
 
-## How to get support
+## How to get SIG support
 
 Talk to us via Momentum or Discord
 
