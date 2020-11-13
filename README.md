@@ -7,29 +7,27 @@ During Odyssey Momentum Software Improvement Group (SIG) Code JEDI’s will supp
 - All the GitHub teams and repos were created on forehand and email invites were send to the teamleads. 
 - Please check these invite emails from GitHub.
 - Your repo is added to a team that is part of the [OdysseyMomentum Organization](https://github.com/odysseymomentum)
-- Your team repo can be private or public
+- Your team repo can be private or public.
 
 ## Adding more team members? 
 
-If you need team members to be invited to team please find FrankFonteijn or MichielCuijpers on Discord
+If you need team members to be invited to your team please talk to FrankFonteijn or MichielCuijpers on Discord
 
 ## More repos? 
 
-You can add more repos to your team yourself, first create the repository within the org (using the + next to your profile icon). Then add the repo to your team -> repositories -> add -> and add the created respository. Adding the repo to the team will give your team members access.
+You can add more repos to your team yourself, first create the repository (using the + next to your profile icon). Then add the repo to your team -> repositories -> add -> and add the created respository. Adding the repo to your team will give your team members access.
 
 
-## Better Code Hub (BCH)
+## Viewing Better Code Hub (BCH) results
 
-Teams are invited to a private GitHub team repo where you can push your code continuously. The repo can be a private or public. For every commit [BCH](https://bettercodehub.com) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
+Teams are invited to a private GitHub team repo where you can push your code continuously. The repo can be a private or public. For every commit [BCH](https://bettercodehub.com) will automatically check the code quality. Viewing the results of of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
 
 
-## Use GitHub oAuth to login to BCH and run analysis
+## Use GitHub oAuth to login to BCH and view results
 
 1. Go to [Bettercodehub.com](https://bettercodehub.com), login with your Github oAuth and accept the 3 scopes. 
 
-2. Press play and get instant feedback on the guidelines and pick refactor candidates.
-
-3. Click on the Pull request icon to make Better Code Hub run on every Push and Pull Request.
+2. Find you repo and get instant feedback on the guidelines and pick refactor candidates.
 
 
 Together with the challenge leads SIG will qualify teams for a 'grill' session, which means a short interview by a SIG Code JEDI. 
