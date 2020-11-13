@@ -39,6 +39,7 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 - Please check these invite emails from GitHub.
 - Your team is added here [OdysseyMomentum Organization](https://github.com/odysseymomentum)
 - Your repo can be private or public
+- If you need team members to be added to org please find FrankFonteijn or MichielCuijpers on Discord
 
 ## More private repos
 
@@ -97,5 +98,5 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 
 ## Let's build some great software!!
 
-The 2020 SIG Jedi team : Bugra, Reinier, Mees, Rakesh, Rudy, Martin, [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
+The 2020 SIG Jedi team : [Frank](https://github.com/valdore86), Mousumi, Femke, Bugra, Reinier, Mees, Rakesh, Rudy, Martin, [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
 
