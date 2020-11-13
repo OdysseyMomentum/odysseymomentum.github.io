@@ -4,9 +4,9 @@ During Odyssey Momentum Software Improvement Group (SIG) Code JEDI’s will supp
 
 ## Better Code Hub (BCH)
 
-Teams will be invited to a GitHub team where you can push your code continuously. The repo can be a private or public. For every commit [BCH](https://bettercodehub.com) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
+Teams are invited to a private GitHub team repo where you can push your code continuously. The repo can be a private or public. For every commit [BCH](https://bettercodehub.com) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. 
 
-Together with the challenge leads SIG will qualify teams for a grill session, which means a short interview by a SIG Code JEDI. 
+Together with the challenge leads SIG will qualify teams for a 'grill' session, which means a short interview by a SIG Code JEDI. 
 
 
 ## SIG Grill Session
@@ -19,7 +19,7 @@ The results from the grill session will be visible on the teams MIRO-board, this
 
 ## Sigrid
 
-BCH is linked to [Sigrid](https://sigrid-says.com), SIG’s software assurance platform. Challenge leads & challenge owners see in Sigrid how teams are performing. 
+BCH is linked to [Sigrid](https://sigrid-says.com), SIG’s software assurance platform. Challenge leads & challenge owners see in Sigrid how teams are performing. SIG Jedi will reach out to the challenge owners to give them access to the platform.
 Via a livestream SIG will be interviewed by Odyssey and will show & explain what we see in Sigrid.
 
 ## Ok, what are those 10 guidelines?
@@ -60,7 +60,7 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 
 Talk to us via Momentum or Discord
 
-1. The 2020 SIG Jedi team : [Frank](https://github.com/valdore86), [Mousumi Samajdwer](https://github.com/mousumi-samajdwer), Femke van Velthoven, [Bugra Yildiz](https://github.com/bugramyildiz), [Reinier Vis](https://github.com/ReinierVis), Mees Kalf, Rakesh, Rudy Marsman, [Martin Boerman](https://github.com/coldfurify), [Jan Laan](https://github.com/janlaan), [Michiel Cuijpers](https://github.com/michielcuijpers)
+1. The 2020 SIG Jedi team : [Frank](https://github.com/valdore86), Clarinda Dobbelaar, Hugo Schoonewille, [Mousumi Samajdwer](https://github.com/mousumi-samajdwer), Femke van Velthoven, [Bugra Yildiz](https://github.com/bugramyildiz), [Reinier Vis](https://github.com/ReinierVis), Mees Kalf, Rakesh, Rudy Marsman, [Martin Boerman](https://github.com/coldfurify), [Jan Laan](https://github.com/janlaan), [Michiel Cuijpers](https://github.com/michielcuijpers)
 
 
 2. After the event, through [email](mailto:bettercodehub@sig.eu).
