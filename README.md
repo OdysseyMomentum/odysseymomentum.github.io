@@ -60,7 +60,7 @@ Via a livestream SIG will be interviewed by Odyssey and will show & explain what
 
 Talk to us via Momentum or Discord
 
-1. The 2020 SIG Jedi team : [Frank](https://github.com/valdore86), Mousumi, Femke, [Bugra Yildiz](https://github.com/bugramyildiz), [Reinier](https://github.com/ReinierVis), Mees Kalf, Rakesh, Rudy Marsman, [Martin Boerman](https://github.com/coldfurify), [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
+1. The 2020 SIG Jedi team : [Frank](https://github.com/valdore86), [Mousumi Samajdwer](https://github.com/mousumi-samajdwer), Femke van Velthoven, [Bugra Yildiz](https://github.com/bugramyildiz), [Reinier Vis](https://github.com/ReinierVis), Mees Kalf, Rakesh, Rudy Marsman, [Martin Boerman](https://github.com/coldfurify), [Jan Laan](https://github.com/janlaan), [Michiel Cuijpers](https://github.com/michielcuijpers)
 
 
 2. After the event, through [email](mailto:bettercodehub@sig.eu).
