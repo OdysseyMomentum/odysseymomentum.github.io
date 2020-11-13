@@ -7,7 +7,7 @@ During Odyssey Momentum Software Improvement Group (SIG) Code JEDI’s will supp
 - All the GitHub teams and repos were created on forehand and email invites were send to the teamleads. 
 - Please check these invite emails from GitHub.
 - Your repo is added to a team that is part of the [OdysseyMomentum Organization](https://github.com/odysseymomentum)
-- Your team repo can be private or public.
+- Your team repo can be private or public. You can make repos public, we welcome that.
 
 ## Adding more team members? 
 
