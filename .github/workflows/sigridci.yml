@@ -1,0 +1,12 @@
+name: sigridci
+on: [push]
+jobs:
+  sigridci:
+    runs-on: ubuntu-latest
+    steps:
+      - run: "git clone https://github.com/Software-Improvement-Group/sigridci.git sigridci"
+      - name: "Run Sigrid CI" 
+        env:
+          SIGRID_CI_ACCOUNT: "${{ secrets.SIGRID_CI_ACCOUNT }}"
+          SIGRID_CI_TOKEN: "${{ secrets.SIGRID_CI_TOKEN }}"
+        run: "./sigridci/sigridci/sigridci.py --customer opensource --system junit --source . --targetquality 3.5"
